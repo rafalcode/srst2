@@ -2,6 +2,7 @@ SRST2
 ====
 
 Short Read Sequence Typing for Bacterial Pathogens
+    * this fork adds qsub_srsts2.py, a modifciation of slurm_srst2.py so that it can run on gridengine clusters
 
 This program is designed to take Illumina sequence data, a MLST database and/or a database
 of gene sequences (e.g. resistance genes, virulence genes, etc) and report the presence of
